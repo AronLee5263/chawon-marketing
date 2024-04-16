@@ -44,10 +44,11 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>asdasd</div>
       <div className="container">
-        <h1>CHA WON PARTY</h1>
-
+        <h1 className="header1">
+          CHA WON <br />
+          PARTY
+        </h1>
         <div className="left">
           <div className="left-text1">DIMENSION</div>
           <div className="left-text2">FASION</div>
