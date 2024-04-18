@@ -50,8 +50,7 @@ function App() {
           PARTY
         </h1>
         <div className="left">
-          <div className="left-text1">DIMENSION</div>
-          <div className="left-text2">FASION</div>
+          <div className="left-text1">DIMENSIONFASIONSOCIALDIMENSIONFASIONSOCIALDIMENSION</div>
         </div>
         <div className="middle">
           {/* <img src={evesangrolang} className="evesangrolang" alt="backPoster" /> */}
